@@ -2,12 +2,19 @@ p {
   text-align: justify;
 }
 
-.caja {
-  background-color: rgb(35, 203, 107);
-  border: 2px solid black;
-  height: 100px;
 }
 
 .bg-blue {
   background-color: rgba(186, 215, 237, 0.5);
+}
+
+.formulario {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.footer {
+  background-color:  rgb(154, 228, 202);
+  height: 50vh;
+  width: auto;   
 }
