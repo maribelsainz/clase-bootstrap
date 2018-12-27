@@ -1,0 +1,13 @@
+p {
+  text-align: justify;
+}
+
+.caja {
+  background-color: rgb(35, 203, 107);
+  border: 2px solid black;
+  height: 100px;
+}
+
+.bg-blue {
+  background-color: rgba(186, 215, 237, 0.5);
+}
